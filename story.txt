@@ -1,2 +1,7 @@
-Idea from: Game of Thrones, Season 8
-Character: Arya Stark, John Snow, Danerys Targaryen
+Background: Game of Thrones, Season 8
+Character: 
+Arya Stark: A girl who skilled at assassination; John Snow's half-blooded sister
+John Snow (A), 
+Danerys Targaryen
+
+
